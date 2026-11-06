@@ -5,9 +5,9 @@ A small Python library and command-line tool for reading people records (first/l
 ## Install
 
 ```bash
-pip install git+https://github.com/krs891/csv-names.git
+pip install git+https://github.com/kishancloudeng/csv-names.git
 # or for development
-git clone https://github.com/krs891/csv-names.git && cd csv-names
+git clone https://github.com/kishancloudeng/csv-names.git && cd csv-names
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
 ```
